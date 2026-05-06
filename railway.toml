@@ -8,4 +8,4 @@ healthcheckPath = "/api/dashboard"
 healthcheckTimeout = 100
 
 [phases.setup]
-nixPkgs = ["nodejs-18_x"]
+nixPkgs = ["nodejs_20"]
