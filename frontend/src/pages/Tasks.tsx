@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { Plus, CheckSquare } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { CheckSquare } from 'lucide-react';
 import api from '../api';
 import { useAuth } from '../context/AuthContext';
 

@@ -7,6 +7,7 @@ import { useAuth } from '../context/AuthContext';
 interface User {
   id: string;
   name: string;
+  email?: string;
 }
 
 interface Task {

@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { LayoutDashboard, FolderKanban, CheckSquare, LogOut, Layout } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
