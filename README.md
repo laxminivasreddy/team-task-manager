@@ -6,10 +6,6 @@ A full-stack team collaboration and task management application that helps teams
   <a href="https://team-task-manager-production-72f7.up.railway.app/login">
     <strong>🌐 Live Demo</strong>
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://github.com/laxminivasreddy/team-task-manager">
-    <strong>💻 GitHub Repository</strong>
-  </a>
 </p>
 
 ---
